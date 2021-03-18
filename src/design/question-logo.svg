@@ -1,0 +1,15 @@
+<svg width="690" height="349" xmlns="http://www.w3.org/2000/svg">
+ <!-- Created with Method Draw - http://github.com/duopixel/Method-Draw/ -->
+
+ <g id="Layer_1">
+  <title>Layer 1</title>
+  <text font-style="normal" font-weight="normal" stroke="null" transform="matrix(3.458425335763487,0,0,3.626950883827879,-286.5639320640766,-179.27311929567986) " xml:space="preserve" text-anchor="start" font-family="'Poppins ExtraLight'" font-size="42" id="svg_1" y="106.92344" x="104.94273" opacity="0.86" stroke-opacity="null" stroke-dasharray="null" stroke-width="0" fill="#ffffff">Quizzee</text>
+  <g id="svg_9">
+   <g transform="matrix(0.058738909302578295,0,0,0.058738909302578295,0,0) " id="svg_5">
+    <path id="svg_6" fill="#5fa1a7" d="m5248.27365,1727.98589c0,106.03906 -85.96094,192 -192,192s-192,-85.96094 -192,-192s85.96094,-192 192,-192s192,85.96094 192,192zm0,0"/>
+    <path id="svg_7" fill="#46e5c0" d="m5056.27365,1967.98589c-132.54687,0 -240,-107.45312 -240,-240s107.45313,-240 240,-240s240,107.45313 240,240c-0.14844,132.48438 -107.51562,239.85156 -240,240zm0,-464c-123.71094,0 -224,100.28906 -224,224s100.28906,224 224,224s224,-100.28906 224,-224c-0.14062,-123.65234 -100.34766,-223.85937 -224,-224zm0,0"/>
+    <path id="svg_8" fill="#86d3b3" d="m5168.27365,1727.98589c0,61.85547 -50.14453,112 -112,112s-112,-50.14453 -112,-112s50.14453,-112 112,-112s112,50.14453 112,112zm0,0"/>
+   </g>
+  </g>
+ </g>
+</svg>
